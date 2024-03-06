@@ -1,4 +1,4 @@
-# proj36-Support-RISCV-dimsumOS
+# projXXX-Support-RISCV-dimsumOS
 
 ### 项目名称
 基于dim-sum开源操作系统的RSICV架构支持
