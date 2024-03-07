@@ -1,7 +1,7 @@
-# projXXX-Support-usermode&RISCV-dimsumOS
+# projXXX-Support-usermode/RISCV-dimsumOS
 
 ### 项目名称
-基于dim-sum开源操作系统的用户态与RSICV架构支持
+基于dim-sum开源操作系统的用户态或RSICV架构支持
 
 ### 支持单位  （可选内容）
 
